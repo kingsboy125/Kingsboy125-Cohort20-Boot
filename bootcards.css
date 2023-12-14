@@ -1,0 +1,18 @@
+.card{
+
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    width: 80%;
+}
+
+.card-body{
+    margin: 5px 0px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgba(77, 77, 246, 0.741);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

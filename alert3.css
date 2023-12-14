@@ -1,0 +1,30 @@
+
+/* <!-- Code for Alerts Assignment page 111 --> */
+
+.alert{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 10px 20px;
+}
+
+/* .alert p{
+
+    margin-right
+    margin-left: 50px;
+} */
+/* 
+.fa-solid{
+
+    background-color: none;
+    border: none;
+}
+
+.strong{
+    font-size: 10px;
+}
+
+/* .alert{
+    width: 90%;
+    margin: 10px 30px;
+} */ */

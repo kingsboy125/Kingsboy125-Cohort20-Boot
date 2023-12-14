@@ -1,0 +1,17 @@
+
+.alert{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 30px 10px;
+}
+
+
+.fa-solid{
+
+    background-color: none;
+    border: none;
+    
+
+}
+
